@@ -1,6 +1,6 @@
 # Projetos-Abertos
 
-## Projetos de Aprendizados e Insight
+## Projetos de Aprendizados DC
 
 Altura dos Presidentes
 

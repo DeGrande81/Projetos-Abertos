@@ -1,9 +1,8 @@
-# **Projetos-Abertos**
-
 ## Projetos de Aprendizados DC
 
-Altura dos Presidentes
 
-Taxa de Natalidade
+[Altura dos Presidentes](DeGrande81/Projetos-Abertos/TaxaNatalidade.ipynb)
 
-Ponte Fremont
+[Taxa de Natalidade](DeGrande81/Projetos-Abertos/TaxaNatalidade.ipynb)
+
+[Ponte Fremont](DeGrande81/Projetos-Abertos/SeriesTemporais.ipynb)

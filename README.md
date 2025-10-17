@@ -6,3 +6,5 @@
 [Taxa de Natalidade](TaxaNatalidade.ipynb)
 
 [Ponte Fremont](SeriesTemporais.ipynb)
+
+[Teste - Área Popolação](AreaPopulacao.ipynb)
